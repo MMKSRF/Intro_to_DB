@@ -1,7 +1,7 @@
 -- Switch to the alx_book_store database
 USE alx_book_store;
 
--- Retrieve the full description of the Books table
+-- Retrieve the full description of the Books table without using DESCRIBE, EXPLAIN, or ANALYZE
 SELECT 
     COLUMN_NAME,
     COLUMN_TYPE,
