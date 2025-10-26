@@ -1,4 +1,4 @@
--- Retrieve the full description of the Books table without DESCRIBE or EXPLAIN
+
 SELECT 
     COLUMN_NAME,
     COLUMN_TYPE,
